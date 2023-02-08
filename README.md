@@ -5,7 +5,7 @@
 <param ve-config 
        title="Content Moderation: ASMR Youtube Demonetization"
        author="Julia F. Duarte"
-       banner="https://iiif.juncture-digital.org/banner/?url=https://raw.githubusercontent.com/02-JFD/Juncture_VisualEssay/main/2022-11-09%20(1).png" 
+       banner="https://raw.githubusercontent.com/02-JFD/Juncture_VisualEssay/main/TV_Screen_Background.jpg" 
        layout="vertical">
        
 
@@ -19,7 +19,7 @@ platform's guidelines.
        label="ASMR Example Thumbnail" 
        description=" made by me :) " 
        license="public domain" 
-       url="https://upload.wikimedia.org/wikipedia/commons/0/0f/1665_Girl_with_a_Pearl_Earring.jpg">
+       url="https://raw.githubusercontent.com/02-JFD/Juncture_VisualEssay/main/2022-11-09%20(1).png)"
 
 
 
