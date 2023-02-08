@@ -19,7 +19,7 @@ platform's guidelines.
        label="ASMR Example Thumbnail" 
        description=" made by me :) " 
        license="public domain" 
-       url="[https://raw.githubusercontent.com/02-JFD/Juncture_VisualEssay/main/2022-11-09%20(1).png)](https://raw.githubusercontent.com/02-JFD/Juncture_VisualEssay/main/2022-11-09%20(1).png">
+       url="https://raw.githubusercontent.com/02-JFD/Juncture_VisualEssay/main/2022-11-09%20(1).png">
        
        
 
